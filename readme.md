@@ -1,4 +1,6 @@
 Notes:
 
-server dev port: 8000,
-client dev port: 4000
+run " npm run build" 
+and then run "npm start"
+
+server will start at port 8000
